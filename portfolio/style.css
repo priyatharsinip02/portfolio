@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: #8e7ca5;
+    color: #a29bb8;
+    padding: 20px;
+    text-align: center;
+}
+
+.tagline {
+    font-style: italic;
+}
+
+section {
+    padding: 20px;
+}
+
+#about img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+#skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #8e7ca5;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
